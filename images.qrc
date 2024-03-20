@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/delete.png</file>
+        <file>images/block</file>
+        <file>images/bpla.png</file>
+        <file>images/menu.png</file>
+        <file>images/backBut.png</file>
+        <file>images/dote.png</file>
+    </qresource>
+</RCC>

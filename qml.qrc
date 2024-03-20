@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AuthorizationCode.qml</file>
+        <file>RegistrationCode.qml</file>
+        <file>AuthorizationPin.qml</file>
+        <file>RegistrationPin.qml</file>
+        <file>MapWindow.qml</file>
+        <file>ErrorAuthWnd.qml</file>
+        <file>EnterAmdminPinCode.qml</file>
+        <file>ToMuchTryesError.qml</file>
+        <file>ErrorAdminPinWnd.qml</file>
+        <file>UserProfileWnd.qml</file>
+        <file>EditUserProfileWnd.qml</file>
+        <file>HistoryDronsFlyesWnd.qml</file>
+    </qresource>
+</RCC>
